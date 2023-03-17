@@ -1,5 +1,5 @@
 # RxRx19a-Data-Analisis
-Code used to analyze the Recursions RxRx19a data set, available at [RxRx.ai](https://www.rxrx.ai).
+Code used to analyze the Recursion's RxRx19a data set, available at [RxRx.ai](https://www.rxrx.ai).
 
 Written as part of a project completed under the guidance of [Thouis (Ray) Jones](https://github.com/thouis).
 
